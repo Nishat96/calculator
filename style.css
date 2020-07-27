@@ -1,0 +1,28 @@
+body{
+    padding-top: 100px;
+}
+
+#inputText{
+    width: 250px;
+}
+
+#clear{
+    width: 255px;
+}
+.cartoon img{
+    width: 300px;
+
+}
+.formStyle{
+   border: 1px solid black;
+   height: 325px;
+   background-color: brown;
+   
+}
+input{
+    width: 60px;
+    height: 50px;
+    background-color: burlywood;
+    font-size: 17px;
+    font-weight: 550;
+}
