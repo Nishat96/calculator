@@ -1,5 +1,7 @@
 body{
     padding-top: 100px;
+    font-family: 'Courgette', cursive !important ;
+   
 }
 
 #inputText{
@@ -11,7 +13,12 @@ body{
 }
 .cartoon img{
     width: 300px;
-
+   
+}
+.text{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
 }
 .formStyle{
    border: 1px solid black;
@@ -25,4 +32,7 @@ input{
     background-color: burlywood;
     font-size: 17px;
     font-weight: 550;
+}
+input:hover{
+    background-color:#e9d14c ;
 }
